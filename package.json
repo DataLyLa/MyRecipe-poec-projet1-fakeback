@@ -1,0 +1,22 @@
+{
+  "name": "poec-projet1-fakeback",
+  "version": "1.0.0",
+  "description": "fake feedback backend",
+  "main": "db.json",
+  "scripts": {
+    "start": "npx json-server --watch db.json --routes routes.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataLyLa/poec-projet1-fakeback.git"
+  },
+  "author": "Data Lyla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DataLyLa/poec-projet1-fakeback/issues"
+  },
+  "homepage": "https://github.com/DataLyLa/poec-projet1-fakeback#readme",
+  "dependencies": {
+    "json-server": "0.17.3"
+  }
+}

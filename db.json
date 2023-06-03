@@ -1,0 +1,28 @@
+{
+    "feedbacks": [
+        {
+            "id": 1,
+            "idMeal":"52772",
+            "userFirstname":"Sherley",
+            "userLastname":"Dino",
+            "comment":"This chicken recipe was so good! I highly recommand it!",
+            "starRating": 5
+        },
+          {
+            "id": 2,
+            "idMeal":"52771",
+            "userFirstname":"Alain",
+            "userLastname":"Dubois",
+            "comment":"This vegan pasta plate is a really trip throught Italy!",
+            "starRating": 4
+        },
+          {
+            "id": 3,
+            "idMeal":"53072",
+            "userFirstname":"Eden",
+            "userLastname":"Bloom",
+            "comment":"A good idea for aperitivo quick to made... ",
+            "starRating": 4.5
+        }
+    ]
+}
